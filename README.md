@@ -1,6 +1,6 @@
 
 
-# <img src="assets/icon.png" width="30" height="30"> dotfile
+# dotfile
 
 **Clean • Productive • Nordic**  
 *the dotfile that potato use  *
@@ -26,7 +26,7 @@
   <img src="screenshots/main.png" alt="Main Desktop" style="height:220px; border-radius:8px; margin:5px;">
 </a>
 
-### Desktop Alternative
+### good wallpapers
 <a href="screenshots/main1.png" target="_blank">
   <img src="screenshots/main1.png" alt="Alternative Desktop View" style="max-width:90%; border-radius:8px; margin-top:15px;">
 </a>
