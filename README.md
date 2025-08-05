@@ -5,7 +5,11 @@ the dotfile that potato use
 **Clean • Productive • Customized**  
 *A curated collection of my development environment configurations*
 
-![Screenshot](screenshots/main.png)  
+![Screenshot](screenshots/main.png) 
+![Screenshot](screenshots/main1.png)
+![Screenshot](screenshots/sddm.png)
+![Screenshot](screenshots/onwork.png)
+![Screenshot](screenshots/onwork1.png)
 *Example: Neovim + Tmux + Alacritty workflow*
 
 ## ✨ Features
