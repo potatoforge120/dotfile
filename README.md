@@ -5,12 +5,13 @@ the dotfile that potato use
 **Clean • Productive • Customized**  
 *A curated collection of my development environment configurations*
 
-![Screenshot](screenshots/main.png) 
-![Screenshot](screenshots/main1.png)
-![Screenshot](screenshots/sddm.png)
-![Screenshot](screenshots/onwork.png)
-![Screenshot](screenshots/onwork1.png)
-*Example: Neovim + Tmux + Alacritty workflow*
+## 🖼️ Visual Showcase
+
+| Work Environment | Login Screen |
+|------------------|--------------|
+| [![onwork](screenshots/onwork.png)](screenshots/onwork.png) | [![sddm](screenshots/sddm.png)](screenshots/sddm.png) |
+| **Main Desktop** | **Alternative View** |
+| [![main](screenshots/main.png)](screenshots/main.png) | [![main1](screenshots/main1.png)](screenshots/main1.png) |
 
 ## ✨ Features
 - **Terminal Powerhouse**: Zsh with [Starship](https://starship.rs) prompt + [zinit](https://github.com/zdharma-continuum/zinit) plugins
