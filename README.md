@@ -6,18 +6,33 @@ the dotfile that potato use
 *A curated collection of my development environment configurations*
 
 ## 🖼️ Visual Showcase
-
-| Work Environment | Login Screen |
-|------------------|--------------|
-| [![onwork](screenshots/onwork.png)](screenshots/onwork.png) | [![sddm](screenshots/sddm.png)](screenshots/sddm.png) |
-| **Main Desktop** | **Alternative View** |
-| [![main](screenshots/main.png)](screenshots/main.png) | [![main1](screenshots/main1.png)](screenshots/main1.png) |
+## 🖼️ Visual Gallery
 
 <div align="center">
-  <img src="screenshots/onwork.png" width="45%">
-  <p style="color:#888; font-size:0.9em;">My productive coding environment</p>
+  
+### Work Environment
+<a href="screenshots/onwork.png" target="_blank">
+  <img src="screenshots/onwork.png" alt="Work Environment" style="height:200px; border-radius:8px; margin:5px;">
+</a>
+<a href="screenshots/onwork1.png" target="_blank">
+  <img src="screenshots/onwork1.png" alt="Alternative Work View" style="height:200px; border-radius:8px; margin:5px;">
+</a>
+
+### Login & Desktop
+<a href="screenshots/sddm.png" target="_blank">
+  <img src="screenshots/sddm.png" alt="SDDM Login Screen" style="height:220px; border-radius:8px; margin:5px;">
+</a>
+<a href="screenshots/main.png" target="_blank">
+  <img src="screenshots/main.png" alt="Main Desktop" style="height:220px; border-radius:8px; margin:5px;">
+</a>
+
+### Desktop Alternative
+<a href="screenshots/main1.png" target="_blank">
+  <img src="screenshots/main1.png" alt="Alternative Desktop View" style="max-width:90%; border-radius:8px; margin-top:15px;">
+</a>
+
 </div>
-<img src="screenshots/main.png" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+
 
 ## ✨ Features
 - **Terminal Powerhouse**: Zsh with [Starship](https://starship.rs) prompt + [zinit](https://github.com/zdharma-continuum/zinit) plugins
