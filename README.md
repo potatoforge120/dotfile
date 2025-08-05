@@ -13,6 +13,11 @@ the dotfile that potato use
 | **Main Desktop** | **Alternative View** |
 | [![main](screenshots/main.png)](screenshots/main.png) | [![main1](screenshots/main1.png)](screenshots/main1.png) |
 
+<div align="center">
+  <img src="screenshots/onwork.png" width="45%">
+  <p style="color:#888; font-size:0.9em;">My productive coding environment</p>
+</div>
+
 ## ✨ Features
 - **Terminal Powerhouse**: Zsh with [Starship](https://starship.rs) prompt + [zinit](https://github.com/zdharma-continuum/zinit) plugins
 - **Editor Mastery**: Neovim Lua config with LSP, debugging, and 50+ plugins
