@@ -17,6 +17,7 @@ the dotfile that potato use
   <img src="screenshots/onwork.png" width="45%">
   <p style="color:#888; font-size:0.9em;">My productive coding environment</p>
 </div>
+<img src="screenshots/main.png" style="transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 
 ## ✨ Features
 - **Terminal Powerhouse**: Zsh with [Starship](https://starship.rs) prompt + [zinit](https://github.com/zdharma-continuum/zinit) plugins
